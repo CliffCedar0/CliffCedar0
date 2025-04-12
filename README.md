@@ -111,10 +111,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="Anaconda" height="50" />
 <a href="https://www.linux.org/" target="_blank">
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
-</a>  
-<a href="https://www.selenium.dev/" target="_blank">
-  <img style="margin: 10px" src="https://raw.githubusercontent.com/SeleniumHQ/seleniumhq.github.io/trunk/images/logo.svg" alt="Selenium" height="50" />
-</a>   
+</a>    
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" height="50" />
 <a href="https://huggingface.co/" target="_blank">
