@@ -132,6 +132,8 @@
 </a>
 </div>
 
+</td><td valign="top" width="33%">
+
 ### 📚 Frameworks & Libraries
 <div align="center">  
 <a href="https://huggingface.co/transformers/" target="_blank">
