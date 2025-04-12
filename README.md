@@ -113,12 +113,12 @@
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
 </a>  
 <a href="https://www.selenium.dev/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/selenium-original.svg" alt="Selenium" height="50" />
-</a>  
+  <img style="margin: 10px" src="https://raw.githubusercontent.com/SeleniumHQ/seleniumhq.github.io/trunk/images/logo.svg" alt="Selenium" height="50" />
+</a>   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" height="50" />
 <a href="https://huggingface.co/" target="_blank">
-  <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" alt="HuggingFace" height="50" />
+  <img style="margin: 10px" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="HuggingFace" height="50" />
 </a>
 </div>
 
@@ -126,7 +126,9 @@
 
 ### 📚 Frameworks & Libraries
 <div align="center">  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" alt="Transformers" height="50" />
+<a href="https://huggingface.co/transformers/" target="_blank">
+  <img style="margin: 10px" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Transformers" height="50" />
+</a>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" height="50" />
 <a href="https://matplotlib.org/" target="_blank">
