@@ -30,7 +30,7 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">Knowledge Graph Construction from Unstructured Text</div>
-                                <div class="date">4 Mar 2025</div>
+                                <!-- <div class="date">4 Mar 2025</div> -->
                             </div>
                         </div>
                         <div class="field rss">
@@ -39,7 +39,7 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">Event Study Methodology in NLP: Market Impact Analysis</div>
-                                <div class="date">26 Feb 2025</div>
+                                <!-- <div class="date">26 Feb 2025</div> -->
                             </div>
                         </div>
                         <div class="field rss">
@@ -48,7 +48,7 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">Multilingual Sentiment Analysis: Challenges and Solutions</div>
-                                <div class="date">11 Feb 2025</div>
+                                <!-- <div class="date">11 Feb 2025</div> -->
                             </div>
                         </div>
                     </section>
