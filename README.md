@@ -1,68 +1,5 @@
-<div align="center">
-  <h1 align="center">CliffCedar0 / 崖柏</h1>
-  
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2AA889&center=true&vCenter=true&width=435&lines=Student+%40+XMUT;Collaborative+Communicator;New+Technology+Enthusiast;Self-Motivated+Problem+Solver;NLP Researcher;Full+Stack+Developer;Competitive+Programmer" alt="Typing SVG" />
-  </p>
-
-  <hr />
-
-  <h2 align="left">🔬 Research Interests</h2>
-  
-  <p align="center">
-    <img src="https://img.shields.io/badge/Natural%20Language%20Processing-007ACC?style=for-the-badge&logo=openai&logoColor=white" alt="NLP" />
-    <img src="https://img.shields.io/badge/Large%20Language%20Models-007ACC?style=for-the-badge&logo=openai&logoColor=white" alt="LLM" /><br>
-    <img src="https://img.shields.io/badge/Machine%20Learning-007ACC?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="ML" />
-    <img src="https://img.shields.io/badge/Knowledge%20Graph-007ACC?style=for-the-badge&logo=neo4j&logoColor=white" alt="KG" />
-  </p>
-
-  <p align="center">
-    <strong>Natural Language Processing</strong><br>
-    • Topic Modeling • Sentiment Analysis
-  </p>
-
-  <p align="center">
-    <strong>Large Language Models</strong><br>
-    • Prompt Engineering • RAG • Model Fine-tuning • LLM Services & Applications
-  </p>
-
-  <p align="center">
-    <strong>Machine Learning</strong><br>
-    • Personalized Behavior Modeling • Recommender Systems
-  </p>
-
-  <p align="center">
-    <strong>Knowledge Graph</strong><br>
-    • Triple Extraction • Knowledge Graph Construction
-  </p>
-
-  <p align="center">
-    <strong>Event Study Methodology</strong><br>
-    • Market Impact Analysis • Event Detection
-  </p>
-
-  <hr />
-
-  <h2 align="left">💻 Technical Expertise</h2>
-
-  <p align="center">
-    <img src="https://img.shields.io/badge/Full%20Stack-007ACC?style=for-the-badge&logo=fullstack&logoColor=white" alt="Full Stack" />
-    <img src="https://img.shields.io/badge/Competitive%20Programming-007ACC?style=for-the-badge&logo=leetcode&logoColor=white" alt="CP" />
-  </p>
-
-  <p align="center">
-    <strong>Full Stack Development</strong><br>
-    • Frontend & Backend Engineering • System Design
-  </p>
-
-  <p align="center">
-    <strong>Competitive Programming</strong><br>
-    • Algorithm Design • Data Structures • Problem Solving
-  </p>
-
-  <hr />
-
-  <h2 align="right">💻 Programming Languages</h2>
+<div align="right">
+<h2 align="center">💻 Programming Languages</h2>
   
   <p align="center">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
@@ -76,7 +13,7 @@
 
   <hr />
 
-  <h2 align="right">🛠️ Tools</h2>
+  <h2 align="center">🛠️ Tools</h2>
   
   <p align="center">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -94,7 +31,7 @@
 
   <hr />
 
-  <h2 align="right">📚 Frameworks & Libraries</h2>
+  <h2 align="center">📚 Frameworks & Libraries</h2>
   
   <p align="center">
     <img src="https://img.shields.io/badge/Transformers-007ACC?style=for-the-badge&logo=huggingface&logoColor=white" alt="Transformers" />
@@ -111,6 +48,72 @@
     <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" /><br>
     <img src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=mybatis&logoColor=white" alt="MyBatis" />
     <img src="https://img.shields.io/badge/Stream-0084FF?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  </p>
+
+  <hr />
+
+</div>
+
+<div align="left">
+  <h1 align="center">CliffCedar0 / 崖柏</h1>
+  
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2AA889&center=true&vCenter=true&width=435&lines=Student+%40+XMUT;Collaborative+Communicator;New+Technology+Enthusiast;Self-Motivated+Problem+Solver;NLP Researcher;Full+Stack+Developer;Competitive+Programmer" alt="Typing SVG" />
+  </p>
+
+  <hr />
+
+  <h2 align="left">🔬 Research Interests</h2>
+  
+  <p align="center">
+    <img src="https://img.shields.io/badge/Natural%20Language%20Processing-007ACC?style=for-the-badge&logo=openai&logoColor=white" alt="NLP" />
+    <img src="https://img.shields.io/badge/Large%20Language%20Models-007ACC?style=for-the-badge&logo=openai&logoColor=white" alt="LLM" /><br>
+    <img src="https://img.shields.io/badge/Machine%20Learning-007ACC?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="ML" />
+    <img src="https://img.shields.io/badge/Knowledge%20Graph-007ACC?style=for-the-badge&logo=neo4j&logoColor=white" alt="KG" />
+  </p>
+
+  <p align="left">
+    <strong>Natural Language Processing</strong><br>
+    • Topic Modeling • Sentiment Analysis
+  </p>
+
+  <p align="left">
+    <strong>Large Language Models</strong><br>
+    • Prompt Engineering • RAG • Model Fine-tuning • LLM Services & Applications
+  </p>
+
+  <p align="left">
+    <strong>Machine Learning</strong><br>
+    • Personalized Behavior Modeling • Recommender Systems
+  </p>
+
+  <p align="left">
+    <strong>Knowledge Graph</strong><br>
+    • Triple Extraction • Knowledge Graph Construction
+  </p>
+
+  <p align="left">
+    <strong>Event Study Methodology</strong><br>
+    • Market Impact Analysis • Event Detection
+  </p>
+
+  <hr />
+
+  <h2 align="left">💻 Technical Expertise</h2>
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/Full%20Stack-007ACC?style=for-the-badge&logo=fullstack&logoColor=white" alt="Full Stack" />
+    <img src="https://img.shields.io/badge/Competitive%20Programming-007ACC?style=for-the-badge&logo=leetcode&logoColor=white" alt="CP" />
+  </p>
+
+  <p align="left">
+    <strong>Full Stack Development</strong><br>
+    • Frontend & Backend Engineering • System Design
+  </p>
+
+  <p align="left">
+    <strong>Competitive Programming</strong><br>
+    • Algorithm Design • Data Structures • Problem Solving
   </p>
 
   <hr />
