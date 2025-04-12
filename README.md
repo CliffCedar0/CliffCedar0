@@ -12,6 +12,8 @@
   <p align="center">
     <img src="https://img.shields.io/badge/Natural%20Language%20Processing-2AA889?style=for-the-badge&logo=openai&logoColor=white" alt="NLP" />
     <img src="https://img.shields.io/badge/Large%20Language%20Models-2AA889?style=for-the-badge&logo=openai&logoColor=white" alt="LLM" />
+    </p>
+    <p align="center">
     <img src="https://img.shields.io/badge/Machine%20Learning-2AA889?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="ML" />
     <img src="https://img.shields.io/badge/Knowledge%20Graph-2AA889?style=for-the-badge&logo=neo4j&logoColor=white" alt="KG" />
   </p>
