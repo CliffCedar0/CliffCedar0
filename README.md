@@ -4,42 +4,58 @@
   <img align='right' src='https://github.com/icecliffs/icecliffs/blob/master/assets/Amatsuka-Mao.png' width='420px'>  
 </div>
 <div align="left">
-  <h3 align="center"> CliffCedar0/崖柏</h3>
+  <h3 align="center"> CliffCedar0 / 崖柏</h3>
   <p align="center">
   🗒 About Me (｡･∀･)ﾉﾞ
   </p>
   
-  - 不是搞安全的，我什么都不会.
-  - 不是搞安全的，我什么都不会.
-  - 不是搞安全的，我什么都不会.
-  - 不是搞安全的，我什么都不会.
-  - 不是搞安全的，我什么都不会.
-  - :trollface: <span style="color: red;">大哥别溯源我，求求你了</span> :shipit: :rage4:
-  - :trollface: <span style="color: blue;">大哥别溯源我，求求你了</span> :shipit: :rage4:
-  - :trollface: <span style="color: yellow;">大哥别溯源我，求求你了</span> :shipit: :rage4:
-  - :trollface: <span style="color: green;">大哥别溯源我，求求你了</span> :shipit: :rage4:
-  - :trollface: <span style="color: black;">大哥别溯源我，求求你了</span> :shipit: :rage4:
-  - 不是搞安全的，我什么都不会.
-  - 不是搞安全的，我什么都不会.
-  - 不是搞安全的，我什么都不会.
-  - 不是搞安全的，我什么都不会.
-  - 不是搞安全的，我什么都不会.
-  - :trollface: <span style="color: red;">大哥别溯源我，求求你了</span> :shipit: :rage4:
-  - :trollface: <span style="color: blue;">大哥别溯源我，求求你了</span> :shipit: :rage4:
-  - :trollface: <span style="color: yellow;">大哥别溯源我，求求你了</span> :shipit: :rage4:
-  - :trollface: <span style="color: green;">大哥别溯源我，求求你了</span> :shipit: :rage4:
-  - :trollface: <span style="color: black;">大哥别溯源我，求求你了</span> :shipit: :rage4:
-  - 不是搞安全的，我什么都不会.
-  - 不是搞安全的，我什么都不会.
-  - 不是搞安全的，我什么都不会.
-  - 不是搞安全的，我什么都不会.
-  - 不是搞安全的，我什么都不会.
+  - Student @ XMUT
+  - Collaborative Communicator
+  - New Technology Enthusiast
+  - Self-Motivated Problem Solver
+  - Natural Language Processing Researcher
+  - Full Stack Software Engineer
+  - Competitive Programming Contestant
+
+  <p align="center">
+  🔬 Research Interests
+  </p>
+
+  - Natural Language Processing
+    - Topic Modeling
+    - Sentiment Analysis
+  - Large Language Models
+    - Prompt Engineering
+    - RAG (Retrieval-Augmented Generation)
+    - Model Fine-tuning
+    - LLM Services & Applications
+  - Machine Learning
+    - Personalized Behavior Modeling
+    - Recommender Systems
+  - Knowledge Graph
+    - Triple Extraction
+    - Knowledge Graph Construction
+  - Event Study Methodology
+    - Market Impact Analysis
+    - Event Detection
+
+  <p align="center">
+  💻 Technical Expertise
+  </p>
+
+  - Full Stack Development
+    - Frontend & Backend Engineering
+    - System Design
+  - Competitive Programming
+    - Algorithm Design
+    - Data Structures
+    - Problem Solving
 
   <p align="center">
   📧 Contact Me
   </p>
   
-  - 🔍 [rceit.iloli.moe](https://rceit.iloli.moe)
+  - 🔍 [Gmail](cliffcedar0@gmail.com)
   
   <picture>
     <source
