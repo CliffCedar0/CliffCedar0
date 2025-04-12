@@ -7,7 +7,7 @@
 
   <hr />
 
-  <h2 align="center">🔬 Research Interests</h2>
+  <h2 align="left">🔬 Research Interests</h2>
   
   <p align="center">
     <img src="https://img.shields.io/badge/Natural%20Language%20Processing-007ACC?style=for-the-badge&logo=openai&logoColor=white" alt="NLP" />
@@ -43,7 +43,7 @@
 
   <hr />
 
-  <h2 align="center">💻 Technical Expertise</h2>
+  <h2 align="left">💻 Technical Expertise</h2>
 
   <p align="center">
     <img src="https://img.shields.io/badge/Full%20Stack-007ACC?style=for-the-badge&logo=fullstack&logoColor=white" alt="Full Stack" />
@@ -62,7 +62,7 @@
 
   <hr />
 
-  <h2 align="center">💻 Programming Languages</h2>
+  <h2 align="right">💻 Programming Languages</h2>
   
   <p align="center">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
@@ -76,7 +76,7 @@
 
   <hr />
 
-  <h2 align="center">🛠️ Tools</h2>
+  <h2 align="right">🛠️ Tools</h2>
   
   <p align="center">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -94,7 +94,7 @@
 
   <hr />
 
-  <h2 align="center">📚 Frameworks & Libraries</h2>
+  <h2 align="right">📚 Frameworks & Libraries</h2>
   
   <p align="center">
     <img src="https://img.shields.io/badge/Transformers-007ACC?style=for-the-badge&logo=huggingface&logoColor=white" alt="Transformers" />
@@ -115,7 +115,7 @@
 
   <hr />
 
-  <h2 align="center">📧 Contact Me</h2>
+  <h2 align="left">📧 Contact Me</h2>
 
   <p align="center">
     <a href="mailto:cliffcedar0@gmail.com">
