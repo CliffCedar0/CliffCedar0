@@ -100,33 +100,23 @@
 <a href="https://www.mysql.com/" target="_blank">
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
 </a>  
-<a href="https://redis.io/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original.svg" alt="Redis" height="50" />
-</a>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" height="50" />
 <a href="https://www.docker.com/" target="_blank">
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
 </a>  
 <a href="https://git-scm.com/" target="_blank">
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
 </a>  
-<a href="https://maven.apache.org/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_maven-icon.svg" alt="Maven" height="50" />
-</a>  
-<a href="https://www.anaconda.com/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/anaconda-original.svg" alt="Anaconda" height="50" />
-</a>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Maven" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="Anaconda" height="50" />
 <a href="https://www.linux.org/" target="_blank">
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
 </a>  
 <a href="https://www.selenium.dev/" target="_blank">
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/selenium-original.svg" alt="Selenium" height="50" />
 </a>  
-<a href="https://www.postman.com/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postman-icon.svg" alt="Postman" height="50" />
-</a>  
-<a href="https://jupyter.org/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jupyter-original-wordmark.svg" alt="Jupyter" height="50" />
-</a>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" height="50" />
 <a href="https://huggingface.co/" target="_blank">
   <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" alt="HuggingFace" height="50" />
 </a>
@@ -136,15 +126,9 @@
 
 ### 📚 Frameworks & Libraries
 <div align="center">  
-<a href="https://huggingface.co/transformers/" target="_blank">
-  <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" alt="Transformers" height="50" />
-</a>
-<a href="https://pandas.pydata.org/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pandas-original.svg" alt="Pandas" height="50" />
-</a>
-<a href="https://numpy.org/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/numpy-original.svg" alt="NumPy" height="50" />
-</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" alt="Transformers" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" height="50" />
 <a href="https://matplotlib.org/" target="_blank">
   <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" height="50" />
 </a>
@@ -154,9 +138,7 @@
 <a href="https://reactjs.org/" target="_blank">
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
 </a>
-<a href="https://flask.palletsprojects.com/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask-original-wordmark.svg" alt="Flask" height="50" />
-</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" alt="Flask" height="50" />
 <a href="https://ant.design/" target="_blank">
   <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/antdesign/antdesign-original.svg" alt="Ant Design" height="50" />
 </a>
@@ -172,6 +154,8 @@
 </div>
 
 </td></tr></table>  
+
+
   <hr />
 
   <h2 align="center">📧 Contact Me</h2>
