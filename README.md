@@ -30,7 +30,7 @@
 
   <p align="center">
     <strong>Knowledge Graph</strong><br>
-    • Triple Extraction • Knowledge Graph Construction
+    • Named Entity Recognition(Triple Extraction) • Knowledge Graph Construction • Graph RAG
   </p>
 
   <p align="center">
@@ -39,25 +39,6 @@
   </p>
 
   <hr />
-
-  <h2 align="center">💻 Technical Expertise</h2>
-
-  <p align="center">
-    <img src="https://img.shields.io/badge/Full%20Stack-2AA889?style=for-the-badge&logo=fullstack&logoColor=white" alt="Full Stack" />
-    <img src="https://img.shields.io/badge/Competitive%20Programming-2AA889?style=for-the-badge&logo=leetcode&logoColor=white" alt="CP" />
-  </p>
-
-  <p align="center">
-    <strong>Full Stack Development</strong><br>
-    • Frontend & Backend Engineering • System Design
-  </p>
-
-  <p align="center">
-    <strong>Competitive Programming</strong><br>
-    • Algorithm Design • Data Structures • Problem Solving
-  </p>
-
-<hr />
 
 
   <h2 align="center">My personal hobby</h2>
