@@ -1,181 +1,43 @@
 <div align="center">
-  <h1 align="center">Round Bamboo</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2AA889&center=true&vCenter=true&width=435&lines=Student+%40+UNSW;Collaborative+Communicator;New+Technology+Enthusiast;Self-Motivated+Problem+Solver;NLP+Researcher;Full+Stack+Developer;Competitive+Programmer" alt="Typing SVG" />
-</p>
-<hr />
-<h2 align="center">🔬 Research Interests</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Natural%20Language%20Processing-2AA889?style=for-the-badge&logo=openai&logoColor=white" alt="NLP" />
-  <img src="https://img.shields.io/badge/Large%20Language%20Models-2AA889?style=for-the-badge&logo=openai&logoColor=white" alt="LLM" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Multimodal%20AI-2AA889?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Multimodal" />
-  <img src="https://img.shields.io/badge/AI%20Agent-2AA889?style=for-the-badge&logo=probot&logoColor=white" alt="Agent" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20for%20Battery-2AA889?style=for-the-badge&logo=battledotnet&logoColor=white" alt="AI4Battery" />
-  <img src="https://img.shields.io/badge/Knowledge%20Graph-2AA889?style=for-the-badge&logo=neo4j&logoColor=white" alt="KG" />
-</p>
-
-<p align="center">
-  <strong>Multimodal AI</strong><br>
-  • Vision-Language Models • Cross-Modal Reasoning • Multimodal RAG
-</p>
-<p align="center">
-  <strong>AI Agent</strong><br>
-  • Tool-Augmented LLM Agents • Multi-Agent Systems • Autonomous Planning & Reasoning
-</p>
-<p align="center">
-  <strong>AI for Battery</strong><br>
-  • Battery Degradation Prediction • Materials Discovery • Intelligent Battery Management
-</p>
-<p align="center">
-  <strong>Natural Language Processing</strong><br>
-  • Topic Modeling • Sentiment Analysis
-</p>
-<p align="center">
-  <strong>Large Language Models</strong><br>
-  • Prompt Engineering • RAG • Model Fine-tuning • LLM Services & Applications
-</p>
-<p align="center">
-  <strong>Knowledge Graph</strong><br>
-  • Named Entity Recognition (Triple Extraction) • Knowledge Graph Construction • Graph RAG
-</p>
-<p align="center">
-  <strong>Event Study Methodology</strong><br>
-  • Market Impact Analysis • Event Detection
-</p>
-<hr />
-
-<!-- <p align="center">
-  I delve into the study of *Da Liu Ren* and *Qi Zheng Si Yu*, both profound systems of Chinese metaphysics whose mysteries remain unfathomable. I continue to study them with humility and reverence. In addition, I explore the intricacies of *Xiao Cheng Tu*, *Xiao Qi Men*, and the geomantic wisdom of *Jin Suo Yu Guan* (Golden Lock Jade Barrier). My current focus is on the principles of Yin-Yang, the Five Elements, and the transformations of the Heavenly Stems and Earthly Branches—seeking the origins of destiny and observing the shifting patterns of Heaven and Earth.
-
-  I am not a seeker of fortune-telling for personal gain, but a follower of the ancient sages' mind-dharma. Through each *Liu Ren* chart, I explore the subtle workings of human affairs; through the movements of stars and constellations, I contemplate the trends of the world. Together with my Dao companion Helan, I co-develop the unique divination and astrology software <a href="https://sktj.maozi.io/" target="_blank">"Shi Ke Tian Ji"</a>, integrating multiple arts and refining time-based calculation, in hopes of inspiring future learners and helping those with affinity.
-
-  With the thoughts of today, I strive to continue the Dao of millennia. With the light of metaphysics, I aim to illuminate the principles of Heaven and Earth, to uphold the righteous lineage of Chinese traditional wisdom, and to pass it on for generations.
-
-  <strong>To observe the Way of Heaven, and to act in accordance with it — therein lies the ultimate truth.</strong>
-</p> -->
-<hr />
-
-<table><tr><td valign="top" width="33%">
-
-### 💻 Programming Languages
-<div align="center">  
-<a href="https://www.java.com/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
-</a>  
-<a href="https://www.python.org/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
-</a>  
-<a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C/C++" height="50" />
-</a>  
-<a href="https://www.javascript.com/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
-</a>  
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
-</a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
-</a>  
-<a href="https://www.mysql.com/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL / SQL" height="50" />
-</a>
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### 🛠️ Tools  
-<div align="center">  
-<a href="https://www.mysql.com/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
-</a>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" height="50" />
-<a href="https://www.docker.com/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
-</a>  
-<a href="https://git-scm.com/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
-</a>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Maven" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="Anaconda" height="50" />
-<a href="https://www.linux.org/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
-</a>    
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" height="50" />
-<a href="https://huggingface.co/" target="_blank">
-  <img style="margin: 10px" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="HuggingFace" height="50" />
-</a>
-</div>
-
-</td><td valign="top" width="33%">
-
-### 📚 Frameworks & Libraries
-<div align="center">  
-<a href="https://huggingface.co/transformers/" target="_blank">
-  <img style="margin: 10px" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Transformers" height="50" />
-</a>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" height="50" />
-<a href="https://matplotlib.org/" target="_blank">
-  <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" height="50" />
-</a>
-<a href="https://plotly.com/" target="_blank">
-  <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" alt="Plotly" height="50" />
-</a>
-<a href="https://reactjs.org/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
-</a>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" alt="Flask" height="50" />
-<a href="https://ant.design/" target="_blank">
-  <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/antdesign/antdesign-original.svg" alt="Ant Design" height="50" />
-</a>
-<a href="https://element.eleme.io/" target="_blank">
-  <img style="margin: 10px" src="https://avatars.githubusercontent.com/u/20498388?s=200&v=4" alt="Element UI" height="50" />
-</a>
-<a href="https://getbootstrap.com/" target="_blank">
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
-</a>
-<a href="https://streamlit.io/" target="_blank">
-  <img style="margin: 10px" src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" alt="Streamlit" height="50" />
-</a>
-</div>
-
-</td></tr></table>  
-
-
-  <hr />
-
-  <h2 align="center">📧 Contact Me</h2>
-
-  <p align="center">
-    <a href="mailto:cliffcedar0@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
+  <h1>Round Bamboo</h1>
+  <p><strong>AI for Batteries · LLMs · Agentic AI</strong><br />Student @ UNSW · Building research into interactive tools</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=18&amp;pause=1400&amp;color=2AA889&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=60&amp;lines=AI+for+Battery+Health+Monitoring;LLMs+%2B+Agentic+AI+for+Batteries;Battery+SOH+Assessment+%26+Second-Life+Evaluation;From+Research+Models+to+Interactive+Tools" alt="Research interests: AI for battery health monitoring, LLMs and agentic AI, SOH assessment and second-life evaluation" />
+  <p>
+    <a href="https://aea-bms.lovable.app/"><img src="https://img.shields.io/badge/Explore_AEA-2AA889?style=flat-square&amp;logo=googlechrome&amp;logoColor=white" alt="Explore the AEA demo" /></a>
+    <a href="mailto:cliffcedar0@gmail.com"><img src="https://img.shields.io/badge/Email-cliffcedar0%40gmail.com-555555?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email Cliff" /></a>
   </p>
+  <img src="https://cdn.jsdelivr.net/gh/eryajf/tu@main/img/image_20240420_214408.gif" width="800" height="3" alt="" />
+</div>
 
-  <hr />
+## 🔬 Research Interests
 
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/icecliffs/icecliffs/output/github-contribution-grid-snake.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/icecliffs/icecliffs/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="GitHub contribution grid snake animation"
-      src="https://raw.githubusercontent.com/icecliffs/icecliffs/output/github-contribution-grid-snake.svg"
-    />
-  </picture>
+I work at the intersection of battery health assessment and artificial intelligence, with an interest in turning research models into practical, interactive tools.
+
+- **LLM + Agentic AI for Battery Health Monitoring** — exploring tool-augmented reasoning, retrieval-augmented generation, and agent workflows for battery data interpretation and health monitoring.
+- **Battery SOH & Second-Life Assessment** — health estimation, degradation analysis, and feature–model matching for evaluating retired batteries.
+- **Generative & Federated Learning for Batteries** — conditional generative models for battery data and collaborative learning for health assessment.
+- **Language & Multimodal Intelligence** — NLP, knowledge graphs, multimodal reasoning, and research-oriented AI applications.
+
+## 🚀 Selected Projects
+
+| Project | What I’m building | Explore |
+| :--- | :--- | :--- |
+| **AEA · Battery Health Assessment** | An interactive demo for estimating single-cell SOH from pulse-response measurements, with browser-based inference. | [Live demo](https://aea-bms.lovable.app/) |
+| **Knowledge-Based Q&A** | A Streamlit application combining local knowledge retrieval with ChatGLM for question answering. | [Repository](https://github.com/RoundBamb00/Intelligent-question-answering-system-based-on-Streamlit) |
+| **NLP Public Opinion Analysis** | Exploring natural language processing for public opinion analysis. | [Repository](https://github.com/RoundBamb00/Natural-Language-Processing-Based-Public-Opinion-Analysis-System) |
+| **万象汇元 · WXHY** | A side project building applications around traditional Chinese calendrical and divination systems. | [Public repository](https://github.com/RoundBamb00/WXHY-Public) |
+
+## 🧰 Languages & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,mysql&amp;theme=light" alt="Python, Java, C++, JavaScript, HTML, CSS and MySQL" />
+</p>
+
+**Research & AI:** Transformers · NumPy · pandas · Matplotlib · Jupyter · Anaconda  
+**Applications & Development:** React · Flask · Streamlit · Git · Docker · Linux
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/eryajf/tu@main/img/image_20240420_214408.gif" width="800" height="3" alt="" />
+  <p>Interested in AI for batteries, research tools, or intelligent applications?<br />
+  <a href="mailto:cliffcedar0@gmail.com">Let’s connect.</a></p>
 </div>
