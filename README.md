@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Round Bamboo</h1>
+  <h1>CliffCedar</h1>
   <p><strong>AI for Batteries · LLMs · Agentic AI</strong><br />Student @ UNSW · Building research into interactive tools</p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=18&amp;pause=1400&amp;color=2AA889&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=60&amp;lines=AI+for+Battery+Health+Monitoring;LLMs+%2B+Agentic+AI+for+Batteries;Battery+SOH+Assessment+%26+Second-Life+Evaluation;From+Research+Models+to+Interactive+Tools" alt="Research interests: AI for battery health monitoring, LLMs and agentic AI, SOH assessment and second-life evaluation" />
   <p>
