@@ -23,9 +23,9 @@ I work at the intersection of battery health assessment and artificial intellige
 | Project | What I’m building | Explore |
 | :--- | :--- | :--- |
 | **AEA · Battery Health Assessment** | An interactive demo for estimating single-cell SOH from pulse-response measurements, with browser-based inference. | [Live demo](https://aea-bms.lovable.app/) |
-| **Knowledge-Based Q&A** | A Streamlit application combining local knowledge retrieval with ChatGLM for question answering. | [Repository](https://github.com/RoundBamb00/Intelligent-question-answering-system-based-on-Streamlit) |
-| **NLP Public Opinion Analysis** | Exploring natural language processing for public opinion analysis. | [Repository](https://github.com/RoundBamb00/Natural-Language-Processing-Based-Public-Opinion-Analysis-System) |
-| **万象汇元 · WXHY** | A side project building applications around traditional Chinese calendrical and divination systems. | [Public repository](https://github.com/RoundBamb00/WXHY-Public) |
+| **Knowledge-Based Q&A** | A Streamlit application combining local knowledge retrieval with ChatGLM for question answering. | [Repository](https://github.com/CliffCedar0/Intelligent-question-answering-system-based-on-Streamlit) |
+| **NLP Public Opinion Analysis** | Exploring natural language processing for public opinion analysis. | [Repository](https://github.com/CliffCedar0/Natural-Language-Processing-Based-Public-Opinion-Analysis-System) |
+| **万象汇元 · WXHY** | A side project building applications around traditional Chinese calendrical and divination systems. | [Public repository](https://github.com/CliffCedar0/WXHY-Public) |
 
 ## 🧰 Languages & Tools
 
