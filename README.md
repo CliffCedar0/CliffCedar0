@@ -1,8 +1,11 @@
 <div align="center">
+  <a href="https://cliffcedar0.github.io/"><img src="assets/jc-logo.png" width="100" height="100" alt="Junjie Chen · JC logo" /></a>
   <h1>CliffCedar</h1>
-  <p><strong>AI for Batteries · LLMs · Agentic AI</strong><br />Student @ UNSW · Building research into interactive tools</p>
+  <p><strong>AI for Batteries · LLMs · Agentic AI</strong><br />MPhil student · UNSW Sydney<br />School of Electrical Engineering and Telecommunications (EET)<br />Building research into interactive tools</p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=18&amp;pause=1400&amp;color=2AA889&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=60&amp;lines=AI+for+Battery+Health+Monitoring;LLMs+%2B+Agentic+AI+for+Batteries;Battery+SOH+Assessment+%26+Second-Life+Evaluation;From+Research+Models+to+Interactive+Tools" alt="Research interests: AI for battery health monitoring, LLMs and agentic AI, SOH assessment and second-life evaluation" />
   <p>
+    <a href="https://cliffcedar0.github.io/"><img src="https://img.shields.io/badge/Personal_Blog-7C3AED?style=flat-square&amp;logo=googlechrome&amp;logoColor=white" alt="Personal blog" /></a>
+    <a href="https://www.linkedin.com/in/junjie-chen-1b42a2360/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="Connect with Junjie on LinkedIn" /></a>
     <a href="https://aea-bms.lovable.app/"><img src="https://img.shields.io/badge/Explore_AEA-2AA889?style=flat-square&amp;logo=googlechrome&amp;logoColor=white" alt="Explore the AEA demo" /></a>
     <a href="mailto:cliffcedar0@gmail.com"><img src="https://img.shields.io/badge/Email-cliffcedar0%40gmail.com-555555?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email Cliff" /></a>
   </p>
@@ -39,5 +42,5 @@ I work at the intersection of battery health assessment and artificial intellige
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/eryajf/tu@main/img/image_20240420_214408.gif" width="800" height="3" alt="" />
   <p>Interested in AI for batteries, research tools, or intelligent applications?<br />
-  <a href="mailto:cliffcedar0@gmail.com">Let’s connect.</a></p>
+  <a href="https://www.linkedin.com/in/junjie-chen-1b42a2360/">LinkedIn</a> · <a href="mailto:cliffcedar0@gmail.com">Email</a> · <a href="https://cliffcedar0.github.io/">Blog (EN)</a> · <a href="https://cliffcedar0.github.io/zh/">博客（中文）</a></p>
 </div>
